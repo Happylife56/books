@@ -8,6 +8,7 @@
 + 你不知道的JavaScript（上卷）
 + 你不知道的JavaScript（中卷）
 + 你不知道的JavaScript（下卷）
++ 深入理解ES6
   
 ## algorithm 算法
 
